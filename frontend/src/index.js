@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './app.jsx';
 
 // Service Worker for PWA (optional but recommended)
 if ('serviceWorker' in navigator) {
@@ -21,4 +21,5 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
+
 );
