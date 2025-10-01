@@ -5,17 +5,14 @@ A beautiful mobile-optimized expense tracking app that syncs with Google Sheets.
 ## Features
 - ✅ Add multiple expenses at once
 - ✅ Categorize as Income, Needs, or Wants
-- ✅ View expense history with summaries
 - ✅ Automatic savings calculation
 - ✅ Sync with Google Sheets
-- ✅ Install as PWA (Progressive Web App)
 - ✅ Mobile-first design
 
 ## Tech Stack
 - **Backend**: Flask (Python)
 - **Frontend**: React + Tailwind CSS
 - **Storage**: Google Sheets
-- **Type**: Progressive Web App (PWA)
 
 ## Quick Start
 
